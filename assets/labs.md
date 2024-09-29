@@ -51,7 +51,6 @@
 #### Premium
 - [TryHackMe](https://tryhackme.com/signup) | Cool Hacking & Pentesting Labs with Web Challenges
 - [HackTheBox](https://www.hackthebox.eu/) | provides Testing Labs, some Web Application Challenges
-- [Cyberseclabs](https://www.cyberseclabs.co.uk/)
 
 ---
 back to [Intro Page](/README.md)
