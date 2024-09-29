@@ -23,7 +23,7 @@
 
 
 #### Premium
-- [Pentesterlab](https://pentesterlab.com/referral/olaL4k8btE8wqA) | Good Labs with a broad variety of Topics, some very good Web Application Exercises
+- [Pentesterlab](https://pentesterlab.com) | Good Labs with a broad variety of Topics, some very good Web Application Exercises
 - [BugBountyHunter](https://www.bugbountyhunter.com/) | Learn how to test for security vulnerabilities on web applications
 
 #### Misc
@@ -49,7 +49,7 @@
 - [OverTheWire](https://overthewire.org/wargames/natas/)
 
 #### Premium
-- [TryHackMe](https://tryhackme.com/signup?referrer=nahamsec) | Cool Hacking & Pentesting Labs with Web Challenges
+- [TryHackMe](https://tryhackme.com/signup) | Cool Hacking & Pentesting Labs with Web Challenges
 - [HackTheBox](https://www.hackthebox.eu/) | provides Testing Labs, some Web Application Challenges
 - [Cyberseclabs](https://www.cyberseclabs.co.uk/)
 
